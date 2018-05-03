@@ -1,2 +1,3 @@
 console.error("Help!")
-console.log("Help")
+console.log("Enter log info here")
+console.warn("Warning here")
